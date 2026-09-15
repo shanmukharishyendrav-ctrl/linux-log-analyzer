@@ -1,0 +1,18 @@
+==================================
+ Linux Security Monitoring Report
+==================================
+
+1. FAILED LOGIN ATTEMPTS
+4
+
+2. FAILED LOGINS BY IP
+      3 203.0.113.50
+      1 198.51.100.25
+
+3. SUSPICIOUS IP ADDRESSES
+ALERT: 203.0.113.50 has 3 failed login attempts
+
+4. FREQUENT SYSTEM ERRORS
+      3 Failed to connect to upstream
+      2 Connection timeout
+      1 Disk I/O error

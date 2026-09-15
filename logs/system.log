@@ -1,0 +1,8 @@
+Sep 15 09:00:01 server kernel: INFO: System startup complete
+Sep 15 09:01:01 server sshd: ERROR: Connection timeout
+Sep 15 09:02:01 server nginx: ERROR: Failed to connect to upstream
+Sep 15 09:03:01 server systemd: WARNING: Service restart scheduled
+Sep 15 09:04:01 server nginx: ERROR: Failed to connect to upstream
+Sep 15 09:05:01 server kernel: ERROR: Disk I/O error
+Sep 15 09:06:01 server nginx: ERROR: Failed to connect to upstream
+Sep 15 09:07:01 server sshd: ERROR: Connection timeout

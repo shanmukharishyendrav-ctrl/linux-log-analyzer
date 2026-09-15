@@ -1,0 +1,6 @@
+Sep 15 09:00:01 server sshd: Accepted password for alice from 192.168.1.10
+Sep 15 09:01:12 server sshd: Failed password for admin from 203.0.113.50
+Sep 15 09:01:15 server sshd: Failed password for admin from 203.0.113.50
+Sep 15 09:01:18 server sshd: Failed password for admin from 203.0.113.50
+Sep 15 09:02:01 server sshd: Failed password for root from 198.51.100.25
+Sep 15 09:03:22 server sshd: Accepted password for bob from 192.168.1.20
